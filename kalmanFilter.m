@@ -1,5 +1,5 @@
-%% 융합시스템제어 term project Kalaman Filter Design
-%% B688018 전기공학과 김현수
+%% term project Kalaman Filter Design
+%% B688018 electrical engineering kim hyeon-soo
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 3-dimension position estimation %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 close all
